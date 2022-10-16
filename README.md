@@ -7,7 +7,7 @@ Assignments of Object Oriented Systems Lab in Java
 
 
 
--------------------------------------------------------------------Assigment 2--------------------------------------------------------
+-------------------------------------------------------------------Assigment 1--------------------------------------------------------
 
 01.	Write a program that takes user’s name as command line argument
  and prints Welcome <entered user name>.
