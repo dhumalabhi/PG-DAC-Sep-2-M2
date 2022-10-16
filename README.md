@@ -42,6 +42,8 @@ of the above.
 6. Write a class “Box” that with three member-variables “height”, “width” and “breadth”. Write suitable 
 constructors to initialize them. Add functions like “getVolume” and “getArea” that will return volume and surface 
 area respectively. Instantiate two arbitrary boxes and then print their volume and surface area. 
+
+
 7.Create a class MathOperation that has four static methods. add() method that takes two integer numbers as 
 parameter and returns the sum of the numbers. subtract() method that takes two integer numbers as parameter and 
 returns the difference of the numbers. multiply() method that takes two integer numbers as parameter and returns the 
