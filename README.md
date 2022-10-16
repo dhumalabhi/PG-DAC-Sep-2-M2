@@ -7,7 +7,7 @@ Assignments of Object Oriented Systems Lab in Java
 
 
 
--------------------------------------------------------------------Assigment 1--------------------------------------------------------
+---------------------------------------------Assigment 1-------------------------------------------------
 
 01.	Write a program that takes user’s name as command line argument
  and prints Welcome <entered user name>.
@@ -46,7 +46,7 @@ Take Fahrenheit as input using Scanner class.
 	If the employee's salary is input by the user write a program to find his gross salary.
 [ formula : GS= Basic + DA + HRA ]
 
--------------------------------------------------------------------Assigment 2--------------------------------------------------------
+------------------------------------Assigment 2--------------------------------------------
 
 1. Implement a class for a “Book”. Book contains a title (a String), a list of authors (array of authors), number of 
 pages (an integer), price (floating point number), publisher (a String) etc. Write suitable constructor and 
@@ -97,7 +97,7 @@ methods of MathOperation class by providing entered numbers and prints the retur
 
 
 
--------------------------------------------------------------------Assigment 3--------------------------------------------------------
+-----------------------------------------------Assigment 3----------------------------------
 
 
 1. Create an abstract class “Publication” with data members ‘noOfPages’, ‘price’, ‘publisherName’ etc. with 
