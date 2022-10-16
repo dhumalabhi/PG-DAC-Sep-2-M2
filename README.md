@@ -113,8 +113,6 @@ And, a class called Book is designed as follows: It contains: • Four private i
 (of the class Author you have just created), price (double), and qtyInStock (int). Assuming that each book is written 
 by one author. • One constructor which constructs an instance with the values given. • Getters and setters: 
 getName(), getAuthor(), getPrice(), setPrice(), getQtyInStock(), setQtyInStock(). Again there is no setter for name 
-and author. Write the class Book (which uses the Author class written earlier). Try: 
-  1.Printing the book name, price and qtyInStock from a Book instance. (Hint: aBook.getName()) 
-  2. After obtaining the “Author” object, print the Author (name, email & gender) of the book. 
+and author. Write the class Book (which uses the Author class written earlier). Try: 1.Printing the book name, price and qtyInStock from a Book instance. (Hint: aBook.getName())  2. After obtaining the “Author” object, print the Author (name, email & gender) of the book. 
 
 
