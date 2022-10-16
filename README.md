@@ -2,9 +2,10 @@
 
 
 Assignments of Object Oriented Systems Lab in Java
-
+@author Abhijeet
 Name of Student Abhijeet Ramesh Dhumal
 
+Assigment 2
 
 1. Implement a class for a “Book”. Book contains a title (a String), a list of authors (array of authors), number of 
 pages (an integer), price (floating point number), publisher (a String) etc. Write suitable constructor and 
