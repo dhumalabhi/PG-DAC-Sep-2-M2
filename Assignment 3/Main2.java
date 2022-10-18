@@ -6,11 +6,8 @@ variable 'interestRate' and member function 'calculateYearlyInterest'. Write ano
 contains a list Account. Also write a main() function to create an instance of Manager class. Add two 
 SavingsAccount and three CurrentAccount to Manager. Calculate interest of each SavingsAccount. Print 
 the details of all accounts.
-
-
 @author-Abhijeet Ramesh Dhumal
 */
-
 
 abstract class Account{
 	
